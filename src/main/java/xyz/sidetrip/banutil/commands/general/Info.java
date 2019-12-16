@@ -23,7 +23,7 @@ public class Info extends Command {
         info.withTitle(Emojis.BAN + " | RCDV2");
         info.withColor(BanUtil.BANNING_COLOUR);
         info.withDescription("I'm **RCDBOT** (a RCD moderation bot) by RCDForum Team\n"
-                + "I have come here to chew bubblegum and ban tards..."
+                + "I have come here to chew bubblegum and ban noobs..."
                 + " and I'm all out of bubblegum.");
         info.appendField("BanUtil version", BanUtil.VERSION, true);
         info.appendField("Discord4J version", Discord4J.VERSION, true);
