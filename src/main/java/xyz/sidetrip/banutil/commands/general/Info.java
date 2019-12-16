@@ -20,7 +20,7 @@ public class Info extends Command {
     @Override
     public void execute(IMessage context, String... args) {
         EmbedBuilder info = new EmbedBuilder();
-        info.withTitle(Emojis.BAN + " | BanUtil");
+        info.withTitle(Emojis.BAN + " | RCDV2");
         info.withColor(BanUtil.BANNING_COLOUR);
         info.withDescription("I'm **RCDBOT** (a RCD moderation bot) by RCDForum Team\n"
                 + "I have come here to chew bubblegum and ban tards..."
