@@ -22,7 +22,7 @@ public class Info extends Command {
         EmbedBuilder info = new EmbedBuilder();
         info.withTitle(Emojis.BAN + " | BanUtil");
         info.withColor(BanUtil.BANNING_COLOUR);
-        info.withDescription("I'm **BanUtil** (a stateless single server moderation bot) by MacDue#4453\n"
+        info.withDescription("I'm **RCDBOT** (a RCD moderation bot) by RCDForum Team\n"
                 + "I have come here to chew bubblegum and ban tards..."
                 + " and I'm all out of bubblegum.");
         info.appendField("BanUtil version", BanUtil.VERSION, true);
