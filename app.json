@@ -1,8 +1,8 @@
 {
-   "name":"BanUtil",
-   "description":"A very simple self hosted moderation bot.",
-   "repository":"https://github.com/MacDue/BanUtil",
-   "logo":"https://dueutil.tech/img/BanUtil.png",
+   "name":"RCDV2",
+   "description":"Project By RCDForum Team.",
+   "repository":"https://rcdforum.com/",
+   "logo":"https://i.imgur.com/S8mZRlE.png",
    "keywords":[
       "discord",
       "discord-bot",
